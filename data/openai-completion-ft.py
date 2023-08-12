@@ -3,7 +3,7 @@
 import json
 import openai
 
-openai.api_key = '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'  # replace 'your-api-key' with your actual OpenAI key
+openai.api_key = ''  # replace 'your-api-key' with your actual OpenAI key
 
 # Read JSONL file
 with open('your-model-here', 'r') as json_file:
