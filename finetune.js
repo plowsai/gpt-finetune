@@ -5,6 +5,8 @@ const configuration = new Configuration({
 });
 const openai = new OpenAIApi(configuration);
 
+
+// First Step
 // async function uploadFile() {
 //     try {
 //         const f = await openai.createFile(
@@ -20,6 +22,7 @@ const openai = new OpenAIApi(configuration);
 // }
 // uploadFile();
 
+//Second Step
 // async function makeFineTune() {
 //     try {
 //         const ft = await openai.createFineTune({
@@ -34,6 +37,7 @@ const openai = new OpenAIApi(configuration);
 // }
 // makeFineTune();
 
+//Third Step
 // async function getFineTunedModelName() {
 //     try {
 //         const modelName = await openai.listFineTunes();
@@ -47,6 +51,7 @@ const openai = new OpenAIApi(configuration);
  
 // getFineTunedModelName();
 
+//Fourth Step
 // async function run() {
 //     try {
 //         const comp = await openai.createCompletion({
