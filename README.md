@@ -2,6 +2,11 @@
 
 Clean your data using python and fine-tune GPT using node.js
 
+
+## Using your Own Data 
+
+If you want to use your own data replace sample.jsonl with your file.
+
 ## Clean your Data 
 
 Run your data through the python scripts inside of the data folder 
