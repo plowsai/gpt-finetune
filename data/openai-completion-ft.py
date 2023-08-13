@@ -1,4 +1,4 @@
-#Warning this is not guranteed to work 100%, if you have a large dataset and want to use OpenAI to finish your the completion portion of your prompt. Run this file.
+#Warning this is not guranteed to work 100%, if you have a large dataset and want to use OpenAI to finish the completion portion of your prompt. Run this file.
 
 import json
 import openai
