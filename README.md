@@ -1,4 +1,4 @@
-# Easy Finetuning
+# GPT Finetuning
 
 Clean your data using python and fine-tune GPT using node.js
 
